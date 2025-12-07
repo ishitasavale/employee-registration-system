@@ -1,0 +1,6 @@
+/target/
+/.settings/
+/.project
+/.classpath
+*.log
+#This ensures unnecessary internal files and target builds don’t get uploaded.
